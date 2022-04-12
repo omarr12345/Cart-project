@@ -1,0 +1,12 @@
+
+[
+
+    {"name":"Cat","id":1,"img":"../imgs/Cat.jpeg","details":"Details","price":100},
+    {"name":"Cat","id":2,"img":"../imgs/Cat2.jpg","details":"Details","price":100},
+    {"name":"Cat","id":3,"img":"../imgs/Cat3.jpg","details":"Details","price":100},
+    {"name":"Cat","id":4,"img":"../imgs/Cat4.jpg","details":"Details","price":100},
+    {"name":"Cat","id":5,"img":"../imgs/Cat5.jpg","details":"Details","price":100},
+    {"name":"Cat","id":6,"img":"../imgs/Cat6.jpg","details":"Details","price":100}
+
+
+]

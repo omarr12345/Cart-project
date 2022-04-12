@@ -1,0 +1,14 @@
+.cart{
+    font-size: 20px;
+    color: black;
+}
+
+.badge{
+    position : absolute;
+    top: 5px;
+    right: 5px;
+}
+
+Link{
+    text-decoration: none;
+}
